@@ -1,0 +1,18 @@
+.slide-img-1{
+    background-image: url('../assets/person/client1.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.slide-img-2{
+    background-image: url('..//assets/person/client2.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.slide-img-3{
+    background-image: url('../assets/person/client3.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
